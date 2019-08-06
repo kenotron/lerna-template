@@ -1,0 +1,15 @@
+{
+  "name": "lerna-template-scripts",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "lerna-template-scripts": "just-scripts.js"
+  },
+  "dependencies": {
+    "just-scripts": "^0.26.0"
+  }
+}
